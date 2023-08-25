@@ -1,2 +1,2 @@
 # Trab_Final_Desenv_Agil
-Trab Final Desenv. Agíl
+Uma loja de Jeans (nome a definir). Produtos: Calça, shorts, saia e jaqueta.
